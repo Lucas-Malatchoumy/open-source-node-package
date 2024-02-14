@@ -1,0 +1,19 @@
+{
+  "name": "open-source-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienHP/open-source-node-package.git"
+  },
+  "author": "fabienhp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabienHP/open-source-node-package/issues"
+  },
+  "homepage": "https://github.com/FabienHP/open-source-node-package#readme"
+}
